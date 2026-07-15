@@ -107,12 +107,14 @@ org/devworks/company/PrintPrimeNumbers.class
 org/devworks/designpattern/singleton/Singleton.class
 org/devworks/eds/HighestSalaryByDepartment.class
 org/devworks/linkedlist/InsertAtPosition.class
+org/devworks/stream/RemoveDuplicate.class
 org/devworks/designpattern/strategy/NewUserDiscount.class
 org/devworks/sorting/Employee$1.class
 org/devworks/company/BillProblem.class
 org/devworks/string/LengthLongestPrefix.class
 org/devworks/designpattern/strategy/NoDiscount.class
 org/devworks/arrays/ValidSubarrayOfSize3.class
+org/devworks/stream/FindDuplicate.class
 org/devworks/hashmap/SortByValueStream.class
 org/devworks/string/SortByValue.class
 org/devworks/arrays/ContainsDuplicates.class
