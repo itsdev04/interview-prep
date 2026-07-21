@@ -22,6 +22,7 @@
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/string/ReverseCharArray.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/company/BuzzProblem.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/string/RemoveSpaces.java
+/Users/dev/Documents/interview-prep/src/main/java/org/devworks/thread/CompletableFutureDemo.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/arrays/HalfSumArray.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/eds/Average.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/exceptionHandling/tryCatchBlock.java
@@ -30,7 +31,6 @@
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/hashmap/RemoveDuplicate.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/string/UniqueChar.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/arrays/CheckAnagrams.java
-/Users/dev/Documents/interview-prep/src/main/java/org/devworks/thread/BatchProcessor.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/thread/ParallelDataFetcher.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/string/LargestSubstring.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/string/Palindrome.java
@@ -70,6 +70,7 @@
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/designpattern/factory/UPIPayment.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/string/MoveToFront.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/string/QuesByDev.java
+/Users/dev/Documents/interview-prep/src/main/java/org/devworks/thread/ParallelBatchExecution.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/arrays/ImpactSumThreshold.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/string/ValidPalindrome.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/arrays/MergeTwoSortedArrays.java
