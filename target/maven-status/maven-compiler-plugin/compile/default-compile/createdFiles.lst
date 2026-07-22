@@ -104,6 +104,7 @@ org/devworks/company/ReturnMonthName.class
 org/devworks/sdesheet/arraystring/GroupAnagramTogetherByFrequency.class
 org/devworks/company/CommonEmployees.class
 org/devworks/eds/TopPaidByDept.class
+org/devworks/stream/SecondNonRepeating.class
 org/devworks/company/PrintPrimeNumbers.class
 org/devworks/designpattern/singleton/Singleton.class
 org/devworks/eds/HighestSalaryByDepartment.class
