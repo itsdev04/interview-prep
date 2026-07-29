@@ -8,6 +8,7 @@
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/company/IsPrime.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/string/FirstNonRepeatedChar.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/designpattern/strategy/DiscountStrategy.java
+/Users/dev/Documents/interview-prep/src/main/java/org/devworks/imp/TwoSumHashmap.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/eds/EmployeeCountByDepartment.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/core/FunctionalInterfaceTest.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/arrays/MoveZerosToEnd.java
@@ -33,6 +34,7 @@
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/arrays/CheckAnagrams.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/thread/ParallelDataFetcher.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/string/LargestSubstring.java
+/Users/dev/Documents/interview-prep/src/main/java/org/devworks/imp/ThreeSumBruteForce.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/string/Palindrome.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/stream/SecondNonRepeating.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/string/Equals.java
@@ -50,6 +52,7 @@
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/sdesheet/arraystring/GroupAnagramTogetherBySorting.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/stream/Shipment.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/designpattern/observer/WebDisplay.java
+/Users/dev/Documents/interview-prep/src/main/java/org/devworks/imp/TwoSumTwoPointers.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/string/ReverseString.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/sdesheet/arraystring/GroupAnagramTogetherByFrequency.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/exceptionHandling/ExceptionHandlingExample.java
@@ -124,3 +127,4 @@
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/company/Permutations.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/company/ReverseInteger.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/arrays/MaxSumSubarray.java
+/Users/dev/Documents/interview-prep/src/main/java/org/devworks/imp/LRUCache.java

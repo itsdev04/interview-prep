@@ -1,0 +1,10 @@
+Here is the condensed list of problems that make up ~80% of standard Java live coding interviews:#QuestionCore Pattern / Concept1Two Sum / 3SumHashMap / Two Pointers
+2LRU Cache ImplementationHashMap + Doubly Linked List (LinkedHashMap internal logic)
+3Valid ParenthesesStack
+4Merge Two Sorted Arrays / ListsTwo Pointers
+5Subarray Sum Equals KPrefix Sum + HashMap
+6Top K Frequent ElementsPriorityQueue (Min-Heap)
+7Invert Binary Tree / Level Order TraversalDFS / BFS Queue
+8Find the Missing Number in ArrayBit Manipulation XOR or Math Sum
+9Custom Object HashMap KeyCorrect hashCode() and equals() implementation
+10Detect Loop in a Linked ListFloyd’s Cycle Detection (Fast & Slow pointers)

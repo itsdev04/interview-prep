@@ -25,6 +25,7 @@ org/devworks/arrays/MoveZerosToEnd.class
 org/devworks/string/QuesByDev.class
 org/devworks/hashmap/RemoveDuplicate.class
 org/devworks/string/ValidPalindrome.class
+org/devworks/imp/ThreeSumBruteForce.class
 org/devworks/string/WordsInString.class
 org/devworks/string/RhymicWords.class
 org/devworks/arrays/FreqEachElementInArray.class
@@ -58,6 +59,7 @@ org/devworks/arrays/DuplicateInArray.class
 org/devworks/designpattern/singleton/SingletonDoubleCheckLock.class
 org/devworks/sorting/EmployeeSortingDemo.class
 org/devworks/string/MoveToFront.class
+org/devworks/imp/TwoSumTwoPointers.class
 org/devworks/hashmap/FirstNonRepeat.class
 org/devworks/string/UniqueChar.class
 org/devworks/designpattern/observer/StockMarket.class
@@ -68,6 +70,7 @@ org/devworks/stream/FrequencyCount.class
 org/devworks/thread/SequencePrinting.class
 org/devworks/string/RoughWork.class
 org/devworks/exceptionHandling/ExceptionHandlingExample.class
+LRUCache.class
 org/devworks/string/RemoveSpaces.class
 org/devworks/string/NoOfChar.class
 org/devworks/designpattern/observer/Main.class
@@ -126,4 +129,6 @@ org/devworks/eds/EmployeeCountByDepartment.class
 org/devworks/stream/FlatteningData.class
 org/devworks/arrays/TargetSum.class
 org/devworks/arrays/TwoIntegerSum.class
+org/devworks/imp/TwoSumHashmap.class
+LRUCache$Node.class
 org/devworks/thread/ParallelBatchExecution.class
