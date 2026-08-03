@@ -36,6 +36,7 @@
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/string/LargestSubstring.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/imp/ThreeSumBruteForce.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/string/Palindrome.java
+/Users/dev/Documents/interview-prep/src/main/java/org/devworks/imp/MergeTwoSortedArrays.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/stream/SecondNonRepeating.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/string/Equals.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/stream/NthHighest.java
@@ -71,6 +72,7 @@
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/company/LuckyNumber.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/designpattern/factory/PaymentFactory.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/company/CharAsciiDisplay.java
+/Users/dev/Documents/interview-prep/src/main/java/org/devworks/imp/ValidParentheses.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/designpattern/factory/UPIPayment.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/string/MoveToFront.java
 /Users/dev/Documents/interview-prep/src/main/java/org/devworks/string/QuesByDev.java

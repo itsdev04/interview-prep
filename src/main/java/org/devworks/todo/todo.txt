@@ -1,4 +1,6 @@
-Here is the condensed list of problems that make up ~80% of standard Java live coding interviews:#QuestionCore Pattern / Concept1Two Sum / 3SumHashMap / Two Pointers
+Here is the condensed list of problems that make up ~80% of standard Java live coding interviews:
+#QuestionCore Pattern / Concept
+1Two Sum / 3SumHashMap / Two Pointers
 2LRU Cache ImplementationHashMap + Doubly Linked List (LinkedHashMap internal logic)
 3Valid ParenthesesStack
 4Merge Two Sorted Arrays / ListsTwo Pointers
