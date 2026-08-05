@@ -8,6 +8,7 @@ public class Checkout {
   }
 
   public double calculateFinalPrice(double price) {
+
     return strategy.applyDiscount(price);
   }
 }

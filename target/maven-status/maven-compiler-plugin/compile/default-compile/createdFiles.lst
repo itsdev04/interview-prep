@@ -131,6 +131,7 @@ org/devworks/designpattern/strategy/FestivalDiscount.class
 org/devworks/eds/EmployeeCountByDepartment.class
 org/devworks/stream/FlatteningData.class
 org/devworks/arrays/TargetSum.class
+org/devworks/string/JoinWithHashTag.class
 org/devworks/arrays/TwoIntegerSum.class
 org/devworks/imp/TwoSumHashmap.class
 org/devworks/thread/ParallelBatchExecution.class
